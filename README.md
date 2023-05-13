@@ -1,0 +1,3 @@
+# insurance-claim-prediction-using-ml
+
+Given a number of factors considered during the underwriting process, can insurers predict claims using ML models? The answer lies in this project...
